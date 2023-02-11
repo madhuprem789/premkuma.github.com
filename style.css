@@ -1,0 +1,30 @@
+
+body{
+    background-image: url(pexels-hasan-albari-1229861.jpg);
+    background-size: cover;
+
+}
+ul{
+    background-color: bisque;
+    background-image: cover;
+}
+li{
+    list-style: none;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+    background-color: aqua;
+    cursor: pointer;
+    
+}
+p{
+    color: rgb(77, 212, 47);
+    border: 5px;
+    border-width: 50px;
+    border-color: blue;
+    background-color: brown; 
+    opacity: 0.3;
+
+}
